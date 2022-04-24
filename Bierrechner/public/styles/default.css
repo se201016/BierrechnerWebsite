@@ -1,0 +1,18 @@
+.whiteField{
+  height: 50px;
+  width: 50px;
+  background: #fff;
+}
+
+.blackField{
+  height: 50px;
+  width: 50px;
+  color: #000;
+}
+
+.chess{
+  margin-top: 50px;
+  position: absolute;
+  left: 50px;
+  /* border:  1px solid black; */
+}

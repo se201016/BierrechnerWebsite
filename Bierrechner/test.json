@@ -1,0 +1,109 @@
+{
+    "User": [
+        {
+            "Name": "Johannes",
+            "PSW": "admin",
+            "Gesamt": 0,
+            "Orte": {
+                "FH": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Home": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Andere": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Gasthaus": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                }
+            }
+        },
+        {
+            "Name": "Philipp",
+            "PSW": "admin",
+            "Gesamt": 0,
+            "Orte": {
+                "FH": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Home": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Andere": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Gasthaus": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                }
+            }
+        },
+        {
+            "Name": "Tobias",
+            "PSW": "admin",
+            "Gesamt": 0,
+            "Orte": {
+                "FH": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Home": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Andere": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                },
+                "Gasthaus": {
+                    "Gesamt": 0,
+                    "Kaiser": 0,
+                    "Wieselburger": 0,
+                    "Spritzer": 0,
+                    "Most": 0
+                }
+            }
+        }
+    ]
+}

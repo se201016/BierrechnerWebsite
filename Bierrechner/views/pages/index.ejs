@@ -1,0 +1,38 @@
+
+<!-- ///changes 23.04.2202 Philipp
+///change class .Button to =>ImgButton  -->
+
+<!DOCTYPE html>
+<html lang="en">
+    
+    <title>
+        <%= title %>
+    </title>
+<head>
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articles</title>
+    
+</head>
+
+<%- include('../partials/head') %>
+<%- include('../partials/header') %>
+<body>
+    <div class="container">
+        <h1>Hey, <%= user.firstName%> 
+        <h2>Welcome to Beermanager</h2>
+    </div>
+    <div class="container"></div>
+     <img id="BTWieselburger" class="ImgButton" src="wieselburger.jpg" alt="Show1"/>
+   
+     <img id="BTKaiser"class="ImgButton" src="kaiser.png" alt="Show"/>
+    </div>
+</body>
+<%- include('../partials/footer') %>
+
+
+<script src="/scripts/Bierrechner.js"></script>
+
+</html>

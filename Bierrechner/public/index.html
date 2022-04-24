@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('../partials/head'); %>
+</head>
+<body class="container">
+
+<header>
+    <%- include('../partials/header'); %>
+</header>
+
+<main>
+    <div class="jumbotron">
+        <h1>This is great</h1>
+        <p>Welcome to templating using EJS</p>
+       
+   
+    </div>
+</main>
+<div id="demo" class="mbsc-cloak">
+    <div mbsc-form>
+        <div class="mbsc-form-group-inset">
+            <label>
+                <input mbsc-input type="text" name="name" placeholder="Name" />
+            </label>
+            <label>
+                <input mbsc-input type="text" name="email" placeholder="Email" />
+            </label>
+            <label>
+                <input mbsc-input name="password" type="text" placeholder="Password" data-password-toggle="true" data-icon-show="eye" data-icon-hide="eye-blocked" />
+            </label>
+        </div>
+    </div>
+</div>
+<footer>
+    <%- include('../partials/footer'); %>
+</footer>
+
+</body>
+</html>
